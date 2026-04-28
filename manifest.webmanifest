@@ -1,0 +1,20 @@
+{
+  "name": "Jani Web Voice Assistant",
+  "short_name": "Jani",
+  "description": "Browser-only Jani voice assistant with wake word, speech output, search, and website commands.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020407",
+  "theme_color": "#020407",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/jani-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"]
+}
