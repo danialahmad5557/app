@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="108" fill="#020407"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="#42e8ff" stroke-width="12" opacity=".75"/>
+  <circle cx="256" cy="256" r="112" fill="none" stroke="#ff2f4f" stroke-width="8" stroke-dasharray="14 18" opacity=".82"/>
+  <circle cx="256" cy="256" r="68" fill="#061722" stroke="#42e8ff" stroke-width="8"/>
+  <path d="M226 245c0-18 12-31 30-31s30 13 30 31v33c0 18-12 31-30 31s-30-13-30-31z" fill="none" stroke="#dffaff" stroke-width="14" stroke-linecap="round"/>
+  <path d="M202 268c0 34 22 57 54 57s54-23 54-57M256 325v42M228 367h56" fill="none" stroke="#dffaff" stroke-width="14" stroke-linecap="round"/>
+  <text x="256" y="126" text-anchor="middle" fill="#ff2f4f" font-family="Arial, sans-serif" font-size="72" font-weight="800">JANI</text>
+</svg>
