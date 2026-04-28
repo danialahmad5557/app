@@ -1,0 +1,20 @@
+{
+  "name": "Jarvis Web Voice Assistant",
+  "short_name": "Jarvis",
+  "description": "Browser-only Jarvis voice assistant with Hey Jarvis wake phrase, speech output, search, and website commands.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020407",
+  "theme_color": "#020407",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/jani-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"]
+}
